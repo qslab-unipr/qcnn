@@ -7,7 +7,7 @@ If you want to execute the code step by step run the qcnn.ipynb file. In the fir
 If you want to execute all the code together, you can run the python_files/main.py file. 
 In this case, when you execute the code, you can set different argument to modify the value of the hyperparameters, e.g.: <br />
 python ./main.py --epochs 2 --opt 'Adam' --lr 0.01 --batch_size 32 --num_classes 10 <br />
-This will execute the QCNN with 2 epochs, with Adam as optimizer with 0.01 as learning rate. The batch size is 64 and it will take all the classes of the MNIST dataset.
+This will execute the QCNN with 2 epochs, with Adam as optimizer with 0.01 as learning rate. The batch size is 32 and it will take all the classes of the MNIST dataset.
 
 The default parameters are: <br />
 epochs: 2 <br />
