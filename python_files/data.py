@@ -1,4 +1,3 @@
-# Loads and Processes the data that will be used in QCNN and Hierarchical Classifier Training
 import numpy as np
 import tensorflow as tf
 from sklearn.decomposition import PCA
