@@ -1,5 +1,5 @@
-This repository contains the source code of the paper "Multi-Class Quantum Convolutional Neural Networks" https://arxiv.org/abs/2404.12741
-submitted to the QUASAR Workshop (https://sites.google.com/view/quasar24/home?authuser=0) in conjunction with the 33rd ACM International
+This repository contains the source code of the paper ["Multi-Class Quantum Convolutional Neural Networks"](https://arxiv.org/abs/2404.12741)
+submitted to the [QUASAR Workshop](https://sites.google.com/view/quasar24/home?authuser=0) in conjunction with the 33rd ACM International
 Symposium on High-Performance Parallel and Distributed Computing.
 
 If you want to execute the code step by step run the qcnn.ipynb file. In the first block of the notebook, you can set the different variables.
